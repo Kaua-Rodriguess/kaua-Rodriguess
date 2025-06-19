@@ -41,7 +41,7 @@
 
 
   
-- 💬 Pergunte-me sobre qualquer coisa que estarei sempre a disposição para atender,É ENSINANDO QUE A GENTE APRENDE!
+- 💬 Pergunte-me sobre qualquer coisa que estarei sempre a disposição para atender, "É ENSINANDO QUE A GENTE APRENDE!".
   
 - ⚡ CURIOSIDADES: Não apenas são programador, eu estudo sobre diversas áreas como, finanças, empreendedorismo e comunicação, acredito que são campos que me enriquecem tanto na área pessoal quanto na profissional. Em minhas redes socias eu compartilho um pouco desse mix de conhecimento, me siga por lá também.
 
