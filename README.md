@@ -5,7 +5,7 @@
 - 🔭 Atualmente estou cursando Engenharia de Software na PUC Minas  (2025–2028).
 - 🌱 Atualmente estou aprendendo Front e back and.
   <div>
-  https://github-readme-stats.vercel.app/api?username=kaua-Rodrigues&show_icons=true&theme=radical  
+  https://github-readme-stats.vercel.app/api?username=kaua-Rodriguess&show_icons=true&theme=radical  
   </div>
   
 
