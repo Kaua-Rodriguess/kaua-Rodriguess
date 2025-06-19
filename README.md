@@ -4,9 +4,13 @@
 
 - 🔭 Atualmente estou cursando Engenharia de Software na PUC Minas  (2025–2028).
 - 🌱 Atualmente estou aprendendo Front e back and.
-  <div>
-  https://github-readme-stats.vercel.app/api?username=kaua-Rodriguess&show_icons=true&theme=radical  
-  </div>
+ ## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaua-Rodriguess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Rodriguess&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
   
 
 - 📚 Atualmente eu estou aprendendo HTML,CSS,Java Script e estrura Json, como também C,C++,Java para aprimirar minha lógica de programação. 
