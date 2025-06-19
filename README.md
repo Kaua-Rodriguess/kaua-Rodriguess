@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou cursando Engenharia de Software na PUC Minas  (2025–2028).
 - 🌱 Aprendendo Front e back and.
-- 📚 Atualmente eu estou aprendendo HTML,CSS,Java Script e estrura Json, como também C,C++,Java para aprimirar minha lógica de programação.
+- 📚 Atualmente eu estou aprendendo HTML,CSS,Java Script e estrura Json, como também C,C++ eJava para aprimirar minha lógica de programação.
 
 ## 👨🏻‍💻 Programming Language:
 <div style="display: inline_block"><br>
