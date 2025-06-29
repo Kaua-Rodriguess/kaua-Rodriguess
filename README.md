@@ -28,7 +28,10 @@
 
 ## Tecnologias 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,csharp,java,python,git,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,git,github,figma,vscode)](https://skillicons.dev)
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
+
 
 
 
@@ -62,7 +65,5 @@
 
 
   
-- 💬 Pergunte-me sobre qualquer coisa que estarei sempre a disposição para atender, "É ENSINANDO QUE A GENTE APRENDE!".
-  
-- ⚡ CURIOSIDADES: Não apenas são programador, eu estudo sobre diversas áreas como, finanças, empreendedorismo e comunicação, acredito que são campos que me enriquecem tanto na área pessoal quanto na profissional. Em minhas redes socias eu compartilho um pouco desse mix de conhecimento, me siga por lá também.
+
 
