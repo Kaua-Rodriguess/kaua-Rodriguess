@@ -28,7 +28,8 @@
 
 ## Tecnologias 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql,git,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,csharp,java,python,git,github,figma,vscode)](https://skillicons.dev)
+
 
 
 
