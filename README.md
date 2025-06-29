@@ -39,8 +39,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou formada no curso técnico de Desenvolvimento de Sistemas pelo SENAI. <strong>No momento, estou no primeiro periodo de Engenharia de Software</strong>.<br>
-  Tenho me aprimorado na linguagem C e aprofundado meus estudos no JS e front-end. Também tenho desenvolvido projetos e trabalhos da faculdade e alguns para o meu protifolio em desenvolvimento.
+  - 💬 Pergunte-me sobre qualquer coisa que estarei sempre a disposição para atender, "É ENSINANDO QUE A GENTE APRENDE!".
+  
+- ⚡ CURIOSIDADES: Não apenas são programador, eu estudo sobre diversas áreas como, finanças, empreendedorismo e comunicação, acredito que são campos que me enriquecem tanto na área pessoal quanto na profissional. Em minhas redes socias eu compartilho um pouco desse mix de conhecimento, me siga por lá também.
 </p>
 
 <p align="left">
