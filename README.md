@@ -26,6 +26,25 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Rodriguess&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+## Tecnologias 💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,mysql,git,github,figma,vscode)](https://skillicons.dev)
+
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Sou formada no curso técnico de Desenvolvimento de Sistemas pelo SENAI. <strong>No momento, estou no primeiro periodo de Engenharia de Software</strong>.<br>
+  Tenho me aprimorado na linguagem C e aprofundado meus estudos no JS e front-end. Também tenho desenvolvido projetos e trabalhos da faculdade e alguns para o meu protifolio em desenvolvimento.
+</p>
+
+<p align="left">
+  
+
+
+</p>
+
 
 ## 🌐 MINHAS REDES SOCIAS:
 
